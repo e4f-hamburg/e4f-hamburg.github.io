@@ -1,0 +1,39 @@
+url: https://y7kim.github.io
+baseurl: 
+
+# Site settings
+title: Entrepreneurs for Future Hamburg
+email: your-email@domain.com
+description: "Die Entrepreneurs for Future (E4F) Hamburg sind ein Zusammenschluss engagierter unternehmerisch denkender Menschen, die die Fridays for Future in ihrem Engagement für Klimaschutz und eine nachhaltige, gerechte Wirtschaft einsetzen"
+
+
+# Team names, titles and social links
+people:
+- name: NN
+  pic: 1
+  position: ...
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: stack-overflow, bitbucket, github, google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url:
+  - title: linkedin
+    url:
+  - title: facebook
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: ...
+  - line: ---
+
+# Build settings
+markdown: kramdown
+permalink: pretty
