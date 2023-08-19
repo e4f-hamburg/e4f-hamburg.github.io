@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: 
+url:
+baseurl:
 
 # Site settings
 title: Entrepreneurs for Future Hamburg
@@ -28,11 +28,6 @@ social:
     url:
   - title: facebook
     url:
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: ...
-  - line: ---
 
 # Build settings
 markdown: kramdown

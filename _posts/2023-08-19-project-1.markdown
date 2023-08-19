@@ -1,0 +1,16 @@
+---
+title: "Globaler Klimastreik"
+subtitle: 
+layout: default
+modal-id: 1
+date: 2023-08-18
+img: logo_entrepreneursforfuture.png
+thumbnail: logo_entrepreneursforfuture.png
+alt: image-alt
+project-date: 15. 09. 2023
+client: Start Bootstrap
+category: Klimastreik
+description: Wir unterstützen die Fridays For Future beim global Klimastreik!  
+
+---
+Und hier geht noch viel mehr Text hinein.

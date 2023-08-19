@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: #{{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -172,12 +172,11 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    font-family: #{{ site.data.template.font.secondary }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -257,7 +256,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #{{ site.data.template.color.primary }};
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -269,7 +268,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -295,15 +294,15 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
+    font-size: 46px;
     font-weight: 700;
     line-height: 50px;
 }
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 200px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
@@ -657,10 +656,9 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
-    background-position: center;
-    background-repeat: no-repeat;
+    background-color: #{{ site.data.template.color.primary }};
+    background-image: url('{{ site.baseurl }}/img/header-bg.png');
+    background-size: cover;
 }
 
 section#contact .section-heading {
@@ -754,7 +752,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.primary }};
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -828,7 +826,7 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.primary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -838,7 +836,7 @@ ul.social-buttons li a:active {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.primary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
