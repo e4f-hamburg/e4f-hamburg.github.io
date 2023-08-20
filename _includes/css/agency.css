@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: #{{ site.data.template.font.primary }};
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -684,6 +684,7 @@ section#contact .form-group textarea.form-control {
 
 section#contact .form-control:focus {
     border-color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.secondary-dark }};
     box-shadow: none;
 }
 
@@ -731,12 +732,16 @@ footer span.copyright {
     line-height: 40px;
 }
 
-footer ul.quicklinks {
+footer quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
+}
+
+footer p {
+    line-height: 1.1;
 }
 
 ul.social-buttons {
