@@ -1,5 +1,5 @@
 ---
-title: "Globaler Klimastreik"
+title: "Globaler Klimastreik 15.09.23"
 subtitle: 
 layout: default
 modal-id: 1
