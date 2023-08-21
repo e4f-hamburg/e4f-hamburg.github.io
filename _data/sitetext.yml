@@ -1,0 +1,197 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Welcome to our Studio!
+    text: It's Nice To Meet You
+    button: Tell Me More
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+
+  contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: ""
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  header:
+    title: ¡Bienvenido a nuestro Estudio!
+    text: Es un placer conocerle
+    button: Ver más
+    buttonlink: "#servicios"
+
+  services:
+    title: "Servicios"
+    text: "Lorem ipsum"
+    section: servicios
+    list:
+      - title: "Comercio Electrónico"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Diseño Responsivo"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Portafolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portafolio
+    closebutton: "Cerrar Proyecto"
+
+  contact:
+    title: "Contáctenos"
+    text: "Lorem ipsum or call 123456789"
+    section: contacto
+    name: "Nombre*"
+    name-validation: "Por favor ingrese su nombre."
+    email: "Correo Electrónico*"
+    email-validation: "Por favor ingrese su correo electrónico."
+    phone: "Número Telefónico"
+    phone-validation: ""
+    message: "Mensaje*"
+    message-validation: "Por favor escriba un mensaje."
+    subject: "Envío del formulario de contacto"
+    submit: "Enviar Mensaje"
+
+  footer:
+    legal: "Política de Privacidad"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES
+
+# Deutsch
+# -----------------
+de: &DEFAULT_DE
+  header:
+    title: Für Klimaschutz und gerechte nachhaltige Entwicklung
+    text: Willkommen bei den E4F Hamburg!
+    button: Mehr erfahren
+    buttonlink: "#services"
+
+  services:
+    title: "Über uns"
+    text: ""
+    section: services
+    list:
+      - title: "Wer wir sind"
+        desc:
+          - "E4F unterstützt die Forderungen von Fridays For Future aus der Wirtschaft heraus. 
+               Wir sind somit **das** Netzwerk für unternehmerisch denkende und handelnde Menschen im Raum Hamburg, die sich für eine lebenswerte Zukunft einsetzen.  
+               Für uns beinhaltet dies neben Klimaschutz auch soziale Maßnahmen wie z.B. gute Grundversorgung und Gesundheit für alle Menschen."
+          - "Wir orientieren uns dabei an den Sustainable Development Goals der Vereinten Nationen."
+        icon: fas fa-users #find more at https://fontawesome.com/icons
+      - title: "Unsere Idee"
+        desc:
+          - "E4F steht für ein neues Narrativ. Statt „entweder Wirtschaft oder Klima“ sehen wir uns als Ermöglicher, ein gutes Leben für alle zu gestalten, unter Berücksichtigung der planetaren Grenzen."
+          - "Wir wollen aus der Wirtschaft heraus mit innovativen Produkten und Geschäftsmodellen sowie neuen Formen des Wirtschaftens wie Kreislaufwirtschaft, Kooperation und Gemeinwohlorientierung einen schnelleren Klimaschutz und nachhaltige Entwicklung zum Wohle der Menschheit vorantreiben."
+        icon: fas fa-sun
+      - title: "Organisation"
+        desc:
+          - "E4F Hamburg ist ein informeller Zusammenschluss von Menschen. Wir sind offen für alle – unabhängig von Branche, Bereich oder Hierarchie-Ebene.
+             Unterstützer*innen und Interessent*innen können sich und ihre Themen gleichberechtigt einbringen."
+          - "Treffen kündigen wir [hier](#portfolio) und über [Meetup](https://www.meetup.com/de-DE/entrepreneurs-for-future-hamburg/) an. Meldet euch gerne dort an, um informiert zu sein.
+             Folgt uns auf LinkedIn und Twitter für weitere Infos."
+          - "Orga-Treffen finden regelmäßig 14-tägig statt. Wenn ihr da mal reinschnuppern wollt, [kontaktiert](#contact) uns gern."
+        icon: fas fa-handshake
+
+  portfolio:
+    title: "Events"
+    text: "Zukünftige und vergangene Veranstaltungen."
+    section: portfolio
+    closebutton: "Schließen"
+
+  contact:
+    title: "Kontakt"
+    text: "Kontaktieren Sie uns."
+    section: contact
+    name: "Name*"
+    name-validation: "Geben Sie einen Namen ein."
+    email: "E-Mail*"
+    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
+    phone: "Telefonnummer"
+    message: "Nachricht*"
+    message-validation: "Schreiben Sie etwas..."
+    subject: "Kontakt-Formular Bestätigung"
+    submit: "Nachricht absenden"
+
+  footer:
+    legal: "Datenschutzerklärung"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+de-DE:
+  <<: *DEFAULT_DE

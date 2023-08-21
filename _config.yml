@@ -13,43 +13,26 @@
 
 theme: jekyll-agency
 
-url: "http://localhost:4000/"
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Site settings
 title: Entrepreneurs for Future Hamburg
-email: your-email@domain.com
+email: corinna.hischke@gmail.com # info@e4f-hamburg.de
 description: "Die Entrepreneurs for Future (E4F) Hamburg sind ein Zusammenschluss engagierter unternehmerisch denkender Menschen, die die Fridays for Future in ihrem Engagement für Klimaschutz und eine nachhaltige, gerechte Wirtschaft einsetzen"
 author: Corinna Hischke
 # logo:     #optional, defaults to site title
-# path: assets\img\clients\creative-market.jpg
-# height: 60 #height in px, defaults to 52px
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
 
 locale: "de-DE" # See available languages in _data/sitetext.yml
 
-# Team names, titles and social links
-people:
-- name: NN
-  pic: 1
-  position: ...
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+analytics:
+  google: #Google Analytics tracking code here
 
-# Social networks usernames (many more available: stack-overflow, bitbucket, github, google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url:
-  - title: linkedin
-    url:
-  - title: facebook
-    url:
+collections:
+  portfolio:
 
-# Build settings
 markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
