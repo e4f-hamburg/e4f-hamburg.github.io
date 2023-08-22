@@ -176,11 +176,11 @@ de: &DEFAULT_DE
   footer:
     legal: "Datenschutzerklärung"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/E4F_Hamburg
         icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/e4f-hamburg/
         icon: "fab fa-linkedin-in"
+      - url: https://www.meetup.com/de-DE/entrepreneurs-for-future-hamburg/
+        icon: "fab fa-meetup"
 de-DE:
   <<: *DEFAULT_DE
