@@ -46,10 +46,13 @@ es-CO:
 de: &DEFAULT_DE
   nav:
     - title: "Über uns"
-      section: Leistungen
+      url: /#services
+      section: services
     - title: "Veranstaltungen"
-      section: Portfolio
+      url: /#portfolio
+      section: portfolio
     - title: "Kontakt"
-      section: Kontakt
+      url: /#contact
+      section: contact
 de-DE:
   <<: *DEFAULT_DE

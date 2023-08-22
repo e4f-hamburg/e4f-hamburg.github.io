@@ -47,6 +47,10 @@
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: transparent;
+
+    &.nav-bg-dark {
+      background-color: $primary;
+    }
     .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
