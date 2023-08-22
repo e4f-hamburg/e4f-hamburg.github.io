@@ -144,24 +144,13 @@ de: &DEFAULT_DE
     section: services
     list:
       - title: "Wer wir sind"
-        desc:
-          - "E4F unterstützt die Forderungen von Fridays For Future aus der Wirtschaft heraus. 
-               Wir sind somit **das** Netzwerk für unternehmerisch denkende und handelnde Menschen im Raum Hamburg, die sich für eine lebenswerte Zukunft einsetzen.  
-               Für uns beinhaltet dies neben Klimaschutz auch soziale Maßnahmen wie z.B. gute Grundversorgung und Gesundheit für alle Menschen."
-          - "Wir orientieren uns dabei an den Sustainable Development Goals der Vereinten Nationen."
-        icon: fas fa-users #find more at https://fontawesome.com/icons
+        icon: fas fa-users
+        text_file: _data/_services/wir_sind.md
       - title: "Unsere Idee"
-        desc:
-          - "E4F steht für ein neues Narrativ. Statt „entweder Wirtschaft oder Klima“ sehen wir uns als Ermöglicher, ein gutes Leben für alle zu gestalten, unter Berücksichtigung der planetaren Grenzen."
-          - "Wir wollen aus der Wirtschaft heraus mit innovativen Produkten und Geschäftsmodellen sowie neuen Formen des Wirtschaftens wie Kreislaufwirtschaft, Kooperation und Gemeinwohlorientierung einen schnelleren Klimaschutz und nachhaltige Entwicklung zum Wohle der Menschheit vorantreiben."
+        text_file: _data/_services/idee.md
         icon: fas fa-sun
       - title: "Organisation"
-        desc:
-          - "E4F Hamburg ist ein informeller Zusammenschluss von Menschen. Wir sind offen für alle – unabhängig von Branche, Bereich oder Hierarchie-Ebene.
-             Unterstützer*innen und Interessent*innen können sich und ihre Themen gleichberechtigt einbringen."
-          - "Treffen kündigen wir [hier](#portfolio) und über [Meetup](https://www.meetup.com/de-DE/entrepreneurs-for-future-hamburg/) an. Meldet euch gerne dort an, um informiert zu sein.
-             Folgt uns auf LinkedIn und Twitter für weitere Infos."
-          - "Orga-Treffen finden regelmäßig 14-tägig statt. Wenn ihr da mal reinschnuppern wollt, [kontaktiert](#contact) uns gern."
+        text_file: _data/_services/organisation.md
         icon: fas fa-handshake
 
   portfolio:
