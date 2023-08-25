@@ -14,7 +14,6 @@
 theme: jekyll-agency
 
 url    : "https://e4f-hamburg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
 
 # Site settings
 title: Entrepreneurs for Future Hamburg
