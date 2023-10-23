@@ -2,22 +2,20 @@
 caption: #what displays in the portfolio grid:
   title: "Globaler Klimastreik 15.09.23"
   subtitle: 
-  thumbnail: assets/img/2023-09-15-klimastreik.webp
+  thumbnail: assets/img/2023-09-15-demo_fahne.webp
   
 #what displays when the item is clicked:
 title: "Globaler Klimastreik 15.09.23"
 subtitle: 
-image: assets/img/2023-09-15-klimastreik.webp #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/2023-09-15-demo_fahne.webp #main image, can be a link or a file in assets/img/portfolio
 alt: "Logo von Entrepreneurs for Future"
 
 ---
-Wir unterstützen die Fridays For Future beim globalen Klimastreik!
+Wir haben die Fridays For Future beim globalen Klimastreik unterstützt, ein deutliches Zeichen gesetzt und neue Kontakte gefunden!
 
-Gemeinsam zeigen wir, dass Wirtschaft und Klimaschutz zusammen gehen. Wir wollen echte Emissionsminderung statt Greenwashing, Investitionen in eine nachhaltige Zukunft statt in fossile Geschäftsmodelle.
+"Wir sind mehr!" (O-Ton Herbert Grönemeyer), das haben allein in Hamburg **zwischen 15.000 und 22.000** Menschen deutlich gemacht. Denn auch uns als E4F geht es darum, **gemeinsam** Dinge zu verändern. Wir wollen zeigen, dass Wirtschaft und Klimaschutz zusammen gehen. Dass echte Emissionsminderung statt Greenwashing funktioniert. Dass in eine nachhaltige Zukunft statt in fossile Geschäftsmodelle investiert werden muss und kann.
 
-Wir wollen gemeinsam als Gruppe auftreten. Zeigt euer Unternehmertum also gern, indem ihr **in eurer "Business"-Kleidung** erscheint.
+[Hier](https://youtu.be/VzsoV0sDGng?feature=shared) die ganze Rede von Herbert Grönemeyer.
 
-{:.list-inline} 
-- Wann? 15.09.2023, ab 12:00 h
-- Wo? Details zum Treffpunkt findet ihr [hier](https://www.meetup.com/entrepreneurs-for-future-hamburg/events/295675766/)
-
+![Klimastreik 2023 Hamburg](assets/img/2023-09-15-demo_reesendamm.webp){:class="img-responsive img-in-text"}
+![Klimastreik 2023 Hamburg Menschengruppe](assets/img/2023-09-15-demo_menschen.webp){:class="img-responsive img-in-text"}

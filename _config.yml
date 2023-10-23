@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: Entrepreneurs for Future Hamburg
 email: info@e4f-hamburg.de
 description: "Die Entrepreneurs for Future (E4F) Hamburg sind ein Zusammenschluss engagierter unternehmerisch denkender Menschen, die die Fridays for Future in ihrem Engagement für Klimaschutz und eine nachhaltige, gerechte Wirtschaft einsetzen"
-author: Corinna Hischke
+author: E4F Hamburg
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px

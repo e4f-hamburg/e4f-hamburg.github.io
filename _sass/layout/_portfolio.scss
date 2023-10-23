@@ -77,7 +77,6 @@
   }
   .modal-content {
     padding: 100px 0;
-    text-align: center;
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
@@ -100,6 +99,14 @@
     }
     button {
       cursor: pointer;
+      // center button
+      position: absolute;
+      left: 50%;
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+    }
+    .img-in-text {
+      max-width: 100%;
     }
   }
   .close-modal {
