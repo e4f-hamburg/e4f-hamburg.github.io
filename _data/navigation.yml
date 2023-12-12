@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Contact"
       section: contact
+    - title: "Network"
+      page: Netzwerk
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -54,5 +56,7 @@ de: &DEFAULT_DE
     - title: "Kontakt"
       url: /#contact
       section: contact
+    - title: "Netzwerk"
+      url: /netzwerk
 de-DE:
   <<: *DEFAULT_DE
