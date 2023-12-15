@@ -52,7 +52,7 @@ jobs:
   deploy:
     environment:
       name: 'Pages Preview'
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: e4f-hamburg.github.io/pr-preview
     # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
     permissions:
       contents: read
