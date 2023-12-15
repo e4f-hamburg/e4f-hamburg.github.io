@@ -67,4 +67,4 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: rossjrw/pr-preview-action@v1.4.4
         with:
-          source-dir: ./_site/preview
+          source-dir: ${{ runner.temp }}/artifact.tar
