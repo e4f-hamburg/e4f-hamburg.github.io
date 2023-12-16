@@ -1,28 +1,40 @@
 ---
 caption: #what displays in the portfolio grid:
   title: "E4F Vernetzungstreffen 06.12.23"
-  subtitle: Meetup – 18:00 h - 21:00 h
-  thumbnail: assets/img/Meetup.webp
+  subtitle: 
+  thumbnail: assets/img/Vernetzungs_Initiativen-1024.webp
   alt: "Handwritten Entrepreneurs for Future Sign"
 
 #what displays when the item is clicked:
 title: "E4F Vernetzungstreffen 06.12.23"
-subtitle: Meetup
-image: assets/img/Meetup.webp
+subtitle: 
+image: assets/img/Vernetzungs_Initiativen-1024.webp
 alt: "Handwritten Entrepreneurs for Future Sign"
 
 ---
-Wir wollen die verschiedenen Initiativen, Vereinen und Verbänden, die sich wie wir für eine enkelfähige Wirtschaft einsetzen, vernetzen. Z.B. B.A.U.M., GWÖ, BNW und S.E.N.D. uvm.
+Ein voller Erfolg, unser Vernetzungstreffen! Großartige **19 (!) Initiativen** waren dabei, außerdem noch weitere an der nachhaltigen Transformation Interessierte Unternehmens-Vertreter*innen.
 
-Wozu? Um die anderen Initiativen besser kennenzulernen, Möglichkeiten zur Zusammenarbeit zu finden, über gemeinsames Bewerben von Veranstaltungen / Angeboten jeweils die Reichweite zu erhöhen - letztlich um unsere Kräfte etwas mehr zu bündeln und einen gemeinsamen Kommunikationskanal zu öffnen.
+Als erste Aktivität wollen wir mit vereinten Kräften den Hamburger Zukunftsentscheid unterstützen, mit diesen Zielen:
+* das Projekt "Zukunftsentscheid" und dessen Unterstützung öffentlich machen,
+* für Unterstützung zu werben, Unternehmen/Mitglieder mobilisieren,
+* bei der Unterschriftensammlung helfen.
 
-Als Mitglied oder Vertreter:in einer Initiative bist du herzlich eingeladen, deine Initiative kurz vorzustellen und in den Austausch mit uns, den anderen Initiativen und Interessenten zu kommen. Ein Thema wird der anstehende **Hamburger Zukunftsentscheid** sein - deshalb sind auch Fridays for Future zu dem Meetup eingeladen.
+Dazu wollen wir jeweils Unternehmen im Umfeld ermuntern, sich mit dem Zukunftsentscheid auseinanderzusetzen und zu prüfen, wie der unterstützt werden kann.
+Als Verband oder Verein organisierte Initiativen könnten entsprechend ihre Mitglieder anschreiben.
 
-Wenn du dich einfach nur für Entrepreneurs for Future interessierst oder vielleicht die Chance nutzen willst, mal die unterschiedlichen Initiativen "am Stück" kennenzulernen, bist du ebenfalls herzlich eingeladen!
+Erste Unterstützungsideen:
+* Logo an mitmachen@zukunftsentscheid-hamburg.de senden, um als Unterstützer auf der Website zum Zukunftsentscheid zu stehen
+* Plakate aufhängen, eigene Werbeflächen nutzen
+* Spenden
+* Im Zukunftsentscheid-Plenum teilnehmen
+* Diskurs durch Veranstaltungen und Informationen fördern
 
-Hier gehts zu mehr Details und zur [Anmeldung](https://www.meetup.com/entrepreneurs-for-future-hamburg/events/297300698/).
+Welche Ideen wie und durch wen umgesetzt werden, wollen wir in einem Follow-Up-Treffen im E4F HH Netzwerk herausfinden.
 
-{:.list-inline}
-- Datum: 06.12.23
-- Uhrzeit: 18:00 h - 21:00 h
-- Ort: inoio GmbH, Kampstr. 15, 20357 Hamburg
+[Hier](/zukunftsentscheid) findet ihr mehr Infos zum Zukunftsentscheid.
+
+![Erstes_Vernetzungstreffen_Ideen_Zukunftsentscheid](assets/img/Zukunftsentscheid-1325.webp){:class="img-responsive img-in-text"}
+
+Außerdem haben wir Themen gesammelt in den Bereichen **Ökonomische Entwicklung, Politik & Gesellschaft, Fokusthemen und Transformationskompetenzen**, die uns jeweils wichtig sind. Einzelne Themen können nun in Teilgruppen weiter bearbeitet werden, um den wirtschaftlichen und gesellschaftlichen Wandel in Hamburg voranzubringen 🔥 💪 🌱. Meetups dazu werden folgen.
+
+![Erstes_Vernetzungstreffen_Themen1](assets/img/Themen1-0768.webp){:class="img-responsive img-in-text" style="max-width:49%;"} ![Erstes_Vernetzungstreffen_Themen2](assets/img/Themen2-0768.webp){:class="img-responsive img-in-text" style="max-width:49%;"}
