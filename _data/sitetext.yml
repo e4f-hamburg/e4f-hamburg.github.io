@@ -161,15 +161,15 @@ de: &DEFAULT_DE
 
   contact:
     title: "Kontakt"
-    text: "Kontaktieren Sie uns."
+    text: "Kontaktiert uns."
     section: contact
     name: "Name*"
-    name-validation: "Geben Sie einen Namen ein."
+    name-validation: "Bitte gib' deinen Namen ein."
     email: "E-Mail*"
-    email-validation: "Geben Sie Ihre E-Mail-Addresse ein."
+    email-validation: "Bitte gib' deine E-Mail-Addresse ein."
     phone: "Telefonnummer"
     message: "Nachricht*"
-    message-validation: "Schreiben Sie etwas..."
+    message-validation: "Schreibe uns etwas..."
     subject: "Kontakt-Formular Bestätigung"
     submit: "Nachricht absenden"
 
