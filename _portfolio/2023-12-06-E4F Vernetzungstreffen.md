@@ -26,7 +26,7 @@ Erste Unterstützungsideen:
 * Logo an mitmachen@zukunftsentscheid-hamburg.de senden, um als Unterstützer auf der Website zum Zukunftsentscheid zu stehen
 * Plakate aufhängen, eigene Werbeflächen nutzen
 * Spenden
-* Im Zukunftsentscheid-Plenum teilnehmen
+* Am Zukunftsentscheid-Plenum teilnehmen
 * Diskurs durch Veranstaltungen und Informationen fördern
 
 Welche Ideen wie und durch wen umgesetzt werden, wollen wir in einem Follow-Up-Treffen im E4F HH Netzwerk herausfinden.
