@@ -15,7 +15,7 @@ Für Texte und Stile werden außer HTML und CSS auch [Markdown](#markdown) und S
 
 **Der Ordner `_site` wird generiert, hier nichts ändern!** 
 
-### Für Developer*innen & Designer*innen
+### Für Developer\*innen & Designer\*innen
 * Packages: Gemfile, jekyll-agency.gemspec
 * CSS/Sass-Stile: 
   * `_sass/base`: allgemeingültige Einstellungen für alle Seiten
@@ -30,9 +30,9 @@ Für Texte und Stile werden außer HTML und CSS auch [Markdown](#markdown) und S
   * `_config.yml`: Einstellungen für die Site
   * `_data/*.yml`: Einstellungen für Navigation und Abschnitte (z. B. Farbeinstellungen in `style.yml`)
 
-### Für Texter*innen
+### Für Texter\*innen
 
-**Wichtig:** Bei .yml-Dateien und im oberen Bereich von .md-Dateien sind die Elemente, die den `- ` beginnen, Positions-sensitiv, d. h. bitte darauf achten, keine Einrückungen zu verändern.
+**Wichtig:** Bei `.yml`-Dateien und im oberen Bereich von .md-Dateien sind die Elemente, die den `- ` beginnen, Positions-sensitiv, d. h. bitte darauf achten, keine Einrückungen zu verändern.
 
 * Bezeichnungen der Menüpunkte: `_data/navigation.yml`, beim Ändern darauf achten, dass der Parameter `url` auf den Namen der `section` verweist.
 * Überschriften und Untertitel: `_data/sitetext.yml`
@@ -43,9 +43,11 @@ Für Texte und Stile werden außer HTML und CSS auch [Markdown](#markdown) und S
 
 ## Markdown
 
-## Texte
+Markdown ist eine einfache Form, um in Texte mit Formatierungs-Informationen zu versehen. Z. B. werden Überschriften oberster Ebene mit `#`, Überschriften der 2. Ebene mit `##` usw. markiert. Eine Übersicht der wichtigsten Elemente (Überschriften, Listen, Tabellen, Hervorhebungen etc.) findet sich [hier](https://kramdown.gettalong.org/quickref.html).
 
+Markdown kann normalerweise nur in `.md`-Dateien, nicht in `yml`-Dateien oder -Headern verwendet werden. 
 
 ## Stile
 
 * In `_data/style.yml` können die Schmuck-Farben und Hintergrundbilder geändert werden.
+* Alle anderen Stile entstammen entweder bootstrap oder sind unter `_sass` als [Sass-Stylesheets](https://sass-lang.com/) getrennt für einzelne Bausteine und Layout-Bestandteile hinterlegt.
