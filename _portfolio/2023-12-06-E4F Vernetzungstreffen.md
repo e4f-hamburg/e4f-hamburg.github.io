@@ -19,7 +19,7 @@ Als erste Aktivität wollen wir mit vereinten Kräften den Hamburger Zukunftsent
 * für Unterstützung zu werben, Unternehmen/Mitglieder mobilisieren,
 * bei der Unterschriftensammlung helfen.
 
-Dazu wollen wir jeweils Unternehmen im Umfeld ermuntern, sich mit dem Zukunftsentscheid auseinanderzusetzen und zu prüfen, wie der unterstützt werden kann.
+Dazu wollen wir jeweils Unternehmen im Umfeld ermuntern, sich mit dem Zukunftsentscheid auseinanderzusetzen und zu prüfen, wie sie diesen unterstützen können.
 Als Verband oder Verein organisierte Initiativen könnten entsprechend ihre Mitglieder anschreiben.
 
 Erste Unterstützungsideen:
