@@ -22,7 +22,10 @@ Worum geht es, wie kann man mitmachen und wie wird das Ganze organisiert? Das fi
 ## Material
 {:class="section-heading text-uppercase text-center"}
 
-🚧 Sobald verfügbar, könnt ihr hier z.B. den Text der Volksinitiative, Informationsblätter oder Unterschriftenformulare herunterladen. 🚧
+* In der Volksinitiative zur Abstimmung gestelltes [Klimaschutzverbesserungsgesetz](https://zukunftsentscheid-hamburg.de/inhalte/der-gesetzestext/) (mit Markierung der Änderungen gegenüber dem Hamburger Klimaschutzgesetz)
+* [Begründung](https://zukunftsentscheid-hamburg.de/inhalte/die-gesetzesbegruendung/) des Klimaschutzverbesserungsgesetzes
+* Alle Informationen zum [Unterschriften-Sammeln](https://zukunftsentscheid-hamburg.de/unterschriften-sammeln/)
+* Download des [Unterschrift-Formulars](https://zukunftsentscheid-hamburg.de/wp-content/uploads/2024/01/Volksinitiative-Klimaschutzverbesserungsgesetz-Unterschriftenliste.pdf) (bitte nur zusammen mit dem [Listenanhang](https://zukunftsentscheid-hamburg.de/wp-content/uploads/2024/01/Volksinitiative-Klimaschutzverbesserungsgesetz-Listenanhang.pdf) mit Gesetzestext, Begründung und Datenschutzhinweis weitergeben)
 
 ## Weitere Links
 {:class="section-heading text-uppercase text-center"}
