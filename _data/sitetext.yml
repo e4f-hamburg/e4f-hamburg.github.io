@@ -140,7 +140,7 @@ de: &DEFAULT_DE
 
   services:
     title: "Über uns"
-    text: ""
+    text: "Wir unterstützen den Hamburger Zukunftsentscheid! [Mehr Infos](/zukunftsentscheid)"
     section: services
     list:
       - title: "Wer wir sind"
