@@ -13,6 +13,7 @@
     @include heading-font;
   }
   .navbar-brand {
+    font-size: 1.1em;
     color: $white;
     &.active,
     &:active,
