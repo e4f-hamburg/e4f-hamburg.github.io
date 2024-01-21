@@ -20,9 +20,12 @@
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="{{ project.caption.alt }}">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
+          <h4>
+            <a data-toggle="modal" href="#p{{ forloop.rindex }}">{{ project.caption.title }}</a>
+          </h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
+
       </div>
 	{% endfor %}
     </div>
