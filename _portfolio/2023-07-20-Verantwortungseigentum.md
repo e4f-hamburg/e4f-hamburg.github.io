@@ -9,6 +9,7 @@ title: "Meetup zu Verantwortungseigentum, 20.07.23"
 subtitle: 
 image: assets/img/to-protect-450596_1280.webp #main image, can be a link or a file in assets/img/portfolio
 alt: "Logo von Entrepreneurs for Future"
+slug: 20-07-23-meetup-verantwortungseigentum"
 
 ---
 In diesem Meetup ging es um Verantwortungseigentum, was ist das, wozu ist das gut, und welche Herausforderungen oder Fragen gibt es vielleicht in diesem Zusammenhang?

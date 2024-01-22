@@ -9,6 +9,7 @@ title: "Globaler Klimastreik 15.09.23"
 subtitle: 
 image: assets/img/2023-09-15-demo_fahne.webp #main image, can be a link or a file in assets/img/portfolio
 alt: "Logo von Entrepreneurs for Future"
+slug: 15-09-23-globaler-klimastreik
 
 ---
 Wir haben die Fridays For Future beim globalen Klimastreik unterstützt, ein deutliches Zeichen gesetzt und neue Kontakte gefunden!

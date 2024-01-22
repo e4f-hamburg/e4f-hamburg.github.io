@@ -11,7 +11,7 @@
     <div class="row">
 	{% for project in site.portfolio reversed %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.rindex }}">
+        <a class="portfolio-link" data-toggle="modal" href="#event-{{ project.slug }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: 'fas fa-plus fa-3x' }}"></i>
@@ -20,7 +20,9 @@
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="{{ project.caption.alt }}">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
+          <h4>
+            <a data-toggle="modal" href="#event-{{ project.slug }}">{{ project.caption.title }}</a>
+          </h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
@@ -40,7 +42,7 @@
     <div class="row">
 	{% for project in site.portfolio reversed %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.rindex }}">
+        <a class="portfolio-link" data-toggle="modal" href="#event-{{ project.slug }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: 'fas fa-plus fa-3x' }}"></i>
@@ -49,7 +51,9 @@
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ project.caption.title }}</h4>
+          <h4>
+            <a data-toggle="modal" href="#event-{{ project.slug }}">{{ project.caption.title }}</a>
+          </h4>
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
