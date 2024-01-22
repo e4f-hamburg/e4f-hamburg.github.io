@@ -44,12 +44,16 @@
             return;
         }
 
+        if (e.originalEvent === undefined) {
+            return;
+        }
+
         // get location hash from previous page
         let previousHash = e.originalEvent.oldURL.split("#")[1];
         // get location hash from current page
         let currentHash = e.originalEvent.newURL.split("#")[1];
         // if the previous page was a modal, and the current page is not a modal, hide the modal
-        if (previousHash && previousHash?.startsWith("event-")) {
+        if (previousHash && previousHash.startsWith("event-")) {
             ignoreEvent = "hidden.bs.modal";
             $('#' + previousHash).modal('toggle');
         }
@@ -58,5 +62,26 @@
             $('#' + currentHash).modal('toggle');
         }
     });
+
+    $('a[href*="#"]').bind('click', function(event) {
+        if (this.hash.startsWith("#event-")) {
+            return;
+        }
+        // Remove '#' from the hash.
+        var hash = this.hash.replace(/^#/, '');
+        if (this.pathname === location.pathname && hash) {
+            event.preventDefault();
+            // Change '#' (removed above) to '#/' so it doesn't jump without the smooth scrolling
+            location.hash = '#/' + hash;
+        }
+    });
+
+    // Scroll on page load if there is a hash in the URL.
+    if (location.hash && !location.hash.startsWith("#event-")) {
+        $.smoothScroll({
+            // Replace '#/' with '#' to go to the correct target
+            scrollTarget: location.hash.replace(/^\#\/?/, '#')
+        });
+    }
 
 })(jQuery);
