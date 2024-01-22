@@ -12,7 +12,7 @@ layout: page_with_header
 <section class="page-section">
   <div class="container" id="pagecontainer" markdown="1">
 
-# Informationen
+## Informationen
 {:class="section-heading text-uppercase text-center"}
 
 Worum geht es, wie kann man mitmachen und wie wird das Ganze organisiert? Das findet ihr auf der Seite des [Zukunftsentscheids Hamburg](https://zukunftsentscheid-hamburg.de/).

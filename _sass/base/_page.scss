@@ -35,13 +35,13 @@ h6 {
 .page-section {
   padding: 100px 0;
   h2.section-heading {
-    font-size: 40px;
+    font-size: 32px;
     margin-top: 0;
     margin-bottom: 15px;
   }
   h3.section-subheading {
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 12px;
+    font-weight: 300;
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
@@ -51,6 +51,16 @@ h6 {
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
+  }
+
+  .page-section {
+    h2.section-heading {
+      font-size: 40px;
+    }
+    h3.section-subheading {
+      font-size: 16px;
+      font-weight: 400;
+    }
   }
 }
 
