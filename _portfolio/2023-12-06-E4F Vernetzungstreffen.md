@@ -10,6 +10,7 @@ title: "E4F Vernetzungstreffen 06.12.23"
 subtitle: 
 image: assets/img/Vernetzungs_Initiativen-1024.webp
 alt: "Handwritten Entrepreneurs for Future Sign"
+slug: 06-12-23-e4f-vernetzungstreffen
 
 ---
 Ein voller Erfolg, unser Vernetzungstreffen! Großartige **19 (!) Initiativen** waren dabei, außerdem noch weitere an der nachhaltigen Transformation Interessierte Unternehmens-Vertreter*innen.
