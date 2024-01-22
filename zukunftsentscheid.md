@@ -4,7 +4,7 @@ layout: page_with_header
 <header class="masthead">
     <div class="container">
         <div class="intro-text">
-            <div class="intro-heading text-uppercase">Zukunftsentscheid Hamburg</div>
+            <div class="intro-heading text-uppercase text-break">Zukunftsentscheid Hamburg</div>
         </div>
     </div>
 </header>
