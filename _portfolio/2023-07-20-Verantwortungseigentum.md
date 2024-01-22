@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: "Meetup zu Verantwortungseigentum, 20.07.23"
+  title: "Meetup zu Verantwortungs-eigentum, 20.07.23"
   subtitle: 
   thumbnail: assets//img/to-protect-450596_1280.webp
   
 #what displays when the item is clicked:
-title: "Meetup zu Verantwortungseigentum, 20.07.23"
+title: "Meetup zu Verantwortungs-eigentum, 20.07.23"
 subtitle: 
 image: assets/img/to-protect-450596_1280.webp #main image, can be a link or a file in assets/img/portfolio
 alt: "Logo von Entrepreneurs for Future"
