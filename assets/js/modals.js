@@ -63,7 +63,7 @@
         }
     });
 
-    $('a[href*="#"]').bind('click', function(event) {
+    $('a[href^="#"]').bind('click', function(event) {
         if (this.hash.startsWith("#event-")) {
             return;
         }
