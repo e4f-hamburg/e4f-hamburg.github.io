@@ -140,18 +140,17 @@ de: &DEFAULT_DE
 
   services:
     title: "Über uns"
-    text: "Wir unterstützen den Hamburger Zukunftsentscheid! [Mehr Infos](/zukunftsentscheid)"
     section: services
     list:
-      - title: "Wer wir sind"
-        icon: fas fa-users
-        text_file: _data/_services/wir_sind.md
       - title: "Unsere Idee"
         text_file: _data/_services/idee.md
         icon: fas fa-sun
       - title: "Organisation"
         text_file: _data/_services/organisation.md
         icon: fas fa-handshake
+      - title: "Unsere Ziele"
+        icon: fas fa-users
+        text_file: _data/_services/ziele.md
 
   portfolio:
     title: "Events"
