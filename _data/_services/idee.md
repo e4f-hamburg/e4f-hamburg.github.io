@@ -1,3 +1,2 @@
-E4F steht für ein neues Narrativ. Statt „entweder Wirtschaft oder Klima“ sehen wir uns als Ermöglicher, ein gutes Leben für alle zu gestalten, unter Berücksichtigung der planetaren Grenzen.
+Unser Antrieb ist die Transformation der Wirtschaft. Wir sind der festen Überzeugung, dass Klimaschutz und nachhaltige Entwicklung nicht im Widerspruch zur Wirtschaft stehen müssen. Im Gegenteil: Wir wollen **Klimaschutz und nachhaltige Entwicklung aus der Wirtschaft heraus beschleunigen.**
 
-Wir wollen aus der Wirtschaft heraus mit innovativen Produkten und Geschäftsmodellen sowie neuen Formen des Wirtschaftens wie Kreislaufwirtschaft, Kooperation und Gemeinwohlorientierung einen schnelleren Klimaschutz und nachhaltige Entwicklung zum Wohle der Menschheit vorantreiben.
