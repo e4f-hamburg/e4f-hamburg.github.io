@@ -13,7 +13,7 @@ alt: "group putting hands together"
 slug: 
 
 ---
-# GreenTeams im Unternehmen – wie funktioniert das und was bringt das? 
+# Green Teams im Unternehmen – wie funktioniert das und was bringt das? 
 
 Susanne Blazejewski (Alanus Hochschule für Kunst und Gesellschaft) und Nina Ihrens (Hamburger Energienetze GmbH) haben mit uns Umsetzungsvarianten und Beispiele geteilt, die uns zu einer sehr angeregten Diskussion geführt haben. 
 
