@@ -10,10 +10,10 @@ title: "Mit Green Teams Nachhaltigkeit in Unternehmen fördern - 05.11.2024"
 subtitle: 
 image: assets/img/meetup-2024-11-05/greenteams_hands.webp
 alt: "group putting hands together"
-slug: 
+slug: event-green-teams
 
 ---
-# Green Teams im Unternehmen – wie funktioniert das und was bringt das? 
+## Green Teams im Unternehmen – wie funktioniert das und was bringt das? 
 
 Susanne Blazejewski (Alanus Hochschule für Kunst und Gesellschaft) und Nina Ihrens (Hamburger Energienetze GmbH) haben mit uns Umsetzungsvarianten und Beispiele geteilt, die uns zu einer sehr angeregten Diskussion geführt haben. 
 
@@ -24,4 +24,6 @@ Susanne Blazejewski (Alanus Hochschule für Kunst und Gesellschaft) und Nina Ihr
 
 Vielen Dank an alle für die wunderbaren Anstöße, die wir nicht allein stehen lassen möchten. Bleibt an uns dran, es wird weitere Aktivitäten dazu geben!
 
-![Netzwerken](assets/img/meetup-2024-11-05/netzwerken.webp){:class="img-responsive img-in-text" style="max-width:49%;"}
+Wenn ihr euch als Green Team engagieren möchtet, findet ihr hier weitere Informationen: [Green Teams Netzwerk (LinkedIn)](https://www.linkedin.com/company/green-teams/about/)
+
+![Netzwerken](assets/img/meetup-2024-11-05/netzwerken.webp){:class="img-responsive img-in-text" style="max-width:49%; display: block; margin-left: auto; margin-right: auto;"}
