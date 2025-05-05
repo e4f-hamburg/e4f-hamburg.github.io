@@ -1,1 +1,1 @@
-E4F Hamburg ist unabhängig. Wir setzen auf die **Kraft des Netzwerks**. Wir arbeiten eng mit anderen Initiativen und Unternehmen zusammen und fördern die Vernetzung. Wissen, Best Practices, Impulse und Erfahrungen wollen wir untereinander teilen und voneinander lernen.
+E4F Region Hamburg ist unabhängig. Wir setzen auf die **Kraft des Netzwerks**. Wir arbeiten eng mit anderen Initiativen und Unternehmen zusammen und fördern die Vernetzung. Wissen, Best Practices, Impulse und Erfahrungen wollen wir untereinander teilen und voneinander lernen.
