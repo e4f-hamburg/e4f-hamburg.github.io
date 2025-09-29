@@ -45,4 +45,4 @@ Auch wenn die Welt von vielen Krisen geprägt ist, dürfen wir die Klimakrise ni
 ### Mehr Infos
 
 * Ansprechpartner: Marie Anderssohn, media@tomorrow.one
-* [Tomorrow.one](Tomorrow.one)
+* [Tomorrow.one](https://www.tomorrow.one/)
