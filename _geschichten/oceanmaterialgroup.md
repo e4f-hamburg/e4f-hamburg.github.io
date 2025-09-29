@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 
   subtitle: '„Aus scheinbar wertlosem Abfall schaffen wir Materialien für eine echte Kreislaufwirtschaft.“'
-  thumbnail: assets/img/beispiele/oceanmaterialgroup/logo.svg
+  thumbnail: assets/img/beispiele/OceanMaterialGroup/logo.svg
 
 #what displays when the item is clicked:
 title: "Ocean Material Group"
 subtitle:
-image: assets/img/beispiele/oceanmaterialgroup/Gründer_mit_Leichtbauplatte.webp #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/beispiele/OceanMaterialGroup/Gründer_mit_Leichtbauplatte.webp #main image, can be a link or a file in assets/img/portfolio
 alt: "Ocean Material Group Logo"
 slug: oceanmaterialgroup
 
