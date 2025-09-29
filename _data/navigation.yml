@@ -54,5 +54,7 @@ de: &DEFAULT_DE
     - title: "Kontakt"
       url: /#contact
       section: contact
+    - title: "Zukunft gestalten"
+      url: /beispiele
 de-DE:
   <<: *DEFAULT_DE

@@ -1,15 +1,28 @@
 <!-- Portfolio Grid -->
-{% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="bg-light page-section" id="{{ site.data.sitetext.portfolio.section | default: 'portfolio' }}">
+
+<!-- Parameter auslesen/setzen -->
+{% if page.portfolio %}
+  {% assign portfolio_list = page.portfolio %}
+  {% assign portfolio_items = site[page.portfolio.items] %}
+{% else %}
+  {% if site.locale and site.locale != "" and site.locale != nil %}
+     {% assign portfolio_list = site.data.sitetext[site.locale].portfolio %}
+  {% else %}
+    {% assign portfolio_list = site.data.sitetext.portfolio %}
+  {% endif %}
+  {% assign portfolio_items = site.portfolio | reverse %}
+{% endif %}
+
+<section class="bg-light page-section" id="{{ portfolio_list.section | default: 'portfolio' }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].portfolio.title | markdownify | default: 'Portfolio' }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].portfolio.text | markdownify }}</h3>
+        <h2 class="section-heading text-uppercase">{{ portfolio_list.title | markdownify | default: 'Portfolio' }}</h2>
+        <h3 class="section-subheading text-muted">{{ portfolio_list.text | markdownify }}</h3>
       </div>
     </div>
     <div class="row">
-	{% for project in site.portfolio reversed %}
+	{% for project in portfolio_items %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#event-{{ project.slug }}">
           <div class="portfolio-hover">
@@ -30,36 +43,4 @@
     </div>
   </div>
 </section>
-{% else %}
-<section class="bg-light page-section" id="{{ site.data.sitetext.portfolio.section | default: 'portfolio' }}">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.portfolio.title | markdownify | default: 'Portfolio' }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext.portfolio.text | markdownify }}</h3>
-      </div>
-    </div>
-    <div class="row">
-	{% for project in site.portfolio reversed %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#event-{{ project.slug }}">
-          <div class="portfolio-hover">
-            <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: 'fas fa-plus fa-3x' }}"></i>
-            </div>
-          </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h4>
-            <a data-toggle="modal" href="#event-{{ project.slug }}">{{ project.caption.title }}</a>
-          </h4>
-          <p class="text-muted">{{ project.caption.subtitle }}</p>
-        </div>
-      </div>
-	{% endfor %}
-    </div>
-  </div>
-</section>
-{% endif %}
 {% include modals.html %}

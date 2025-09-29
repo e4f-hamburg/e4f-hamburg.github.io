@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+<header class="masthead">
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-lead-in">{{ page.header.subtitle | markdownify }}</div>
+            <div class="intro-heading text-uppercase text-break">{{ page.header.title | markdownify }}</div>
+        </div>
+    </div>
+</header>
+
+
+<div class="container" id="pagecontainer">
+    {{ content }}
+</div>
+
+{% include contact.html %}
