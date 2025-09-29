@@ -135,8 +135,8 @@ de: &DEFAULT_DE
   header:
     title: Für Klimaschutz und gerechte, nachhaltige Entwicklung
     text: Willkommen bei den E4F Region Hamburg!
-    button: Mehr erfahren
-    buttonlink: "#services"
+    button: Hier geht es zu Hamburger Zukunftsgestalter*innen
+    buttonlink: "/beispiele"
 
   services:
     title: "Über uns"
@@ -154,7 +154,7 @@ de: &DEFAULT_DE
 
   portfolio:
     title: "Events"
-    text: "Zukünftige und vergangene Veranstaltungen."
+    text: "Zukünftige und vergangene Veranstaltungen"
     section: portfolio
     closebutton: "Schließen"
 
@@ -175,8 +175,6 @@ de: &DEFAULT_DE
   footer:
     legal: "Datenschutzerklärung"
     social:
-      - url: https://twitter.com/E4F_Hamburg
-        icon: "fab fa-twitter"
       - url: https://www.linkedin.com/company/e4f-hamburg/
         icon: "fab fa-linkedin-in"
       - url: https://www.meetup.com/de-DE/entrepreneurs-for-future-hamburg/

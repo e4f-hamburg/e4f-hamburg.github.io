@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: admin_page
 ---
 # Datenschutzerklärung
 

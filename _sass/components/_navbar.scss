@@ -48,6 +48,7 @@
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: transparent;
+    min-height: 112px;
 
     &.nav-bg-dark {
       background-color: $primary;

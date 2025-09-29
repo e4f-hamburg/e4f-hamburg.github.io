@@ -32,6 +32,7 @@ analytics:
 
 collections:
   portfolio:
+  geschichten:
 
 markdown: kramdown
 
