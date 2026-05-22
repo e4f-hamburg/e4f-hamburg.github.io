@@ -140,7 +140,12 @@ de: &DEFAULT_DE
 
   services:
     title: "Über uns"
-    subtitle: "Wir sagen **Nein** zu Olympia"
+    text: "Wir sagen **Nein** zu Olympia! Warum?
+Wir freuen uns auch über die tolle Stimmung, die internationale Vielfalt und das Gemeinsame so eines Events.
+
+Aner es gibt so viele Fragezeichen an den unerwünschten Effekten und an deren Einhegungen, dass wir so wie es jetzt ist, nicht zustimmen können.
+Darum unterstützen wir die [Stellungnahme des Zukunftsrats](https://www.zukunftsrat.de/wp-content/uploads/Stellungnahme-des-Zukunftsrats-Hamburg-zur-Olympia-Bewerbung-2036-2040-2044.pdf).
+ 
     section: services
     list:
       - title: "Unsere Idee"
