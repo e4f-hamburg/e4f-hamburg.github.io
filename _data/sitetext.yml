@@ -140,6 +140,7 @@ de: &DEFAULT_DE
 
   services:
     title: "Über uns"
+    subtitle: "Wir sagen **Nein** zu Olympia"
     section: services
     list:
       - title: "Unsere Idee"
